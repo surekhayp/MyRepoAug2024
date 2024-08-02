@@ -1,0 +1,1 @@
+Git is a powerful version control system widely used for tracking changes in source code during software development. Created by Linus Torvalds in 2005, Git has become an essential tool for developers worldwide. Understanding Git can significantly enhance your coding efficiency and collaboration.
